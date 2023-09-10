@@ -1,2 +1,2 @@
 # geracao-caldeira
-Repositório feito para armazenar os exercícios feitos em aula no programa Geração Caldeira.
+Repositório feito para armazenar os exercícios feitos em aula na Trilha de Programação / Geração Caldeira.
