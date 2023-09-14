@@ -1,3 +1,5 @@
+package com.github.sdksantana;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.text.DecimalFormat;

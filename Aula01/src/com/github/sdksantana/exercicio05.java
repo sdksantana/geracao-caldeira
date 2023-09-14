@@ -1,3 +1,5 @@
+package com.github.sdksantana;
+
 import java.util.Scanner;
 
 public class exercicio05 {

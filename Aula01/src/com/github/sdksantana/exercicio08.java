@@ -1,3 +1,5 @@
+package com.github.sdksantana;
+
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 import java.io.IOException;
