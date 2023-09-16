@@ -1,7 +1,7 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.util.Scanner;
-public class exercicio01 {
+public class Exercicio01 {
     public static void main(String[] args) {
         Scanner textoDigitado = new Scanner(System.in);
             System.out.println("Digite o seu nome: ");

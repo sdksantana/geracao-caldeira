@@ -1,7 +1,7 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.util.Scanner;
-public class exercicio06 {
+public class Exercicio06 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int idade = -1;

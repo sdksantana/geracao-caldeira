@@ -1,8 +1,8 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.util.Scanner;
 
-public class exercicio05 {
+public class Exercicio05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int segundosCorridos = 0;

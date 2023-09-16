@@ -1,10 +1,8 @@
-package com.github.sdksantana;
-
+package com.github.aula01;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
-import java.io.IOException;
 
-public class exercicio08 {
+public class Exercicio08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int menu;
@@ -39,7 +37,7 @@ public class exercicio08 {
                         e.printStackTrace();
                     }
             }
-        } while (menu < 1 || menu > 4); //Verifica as opções que o usário digitou.
+        } while (menu < 1 || menu > 4); //repete até que o usuário coloque um número válido
 
         scanner.close();
     }

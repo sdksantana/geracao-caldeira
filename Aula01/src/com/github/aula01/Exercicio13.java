@@ -1,7 +1,7 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.util.Scanner;
-public class exercicio13 {
+public class Exercicio13 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um número inteiro: ");

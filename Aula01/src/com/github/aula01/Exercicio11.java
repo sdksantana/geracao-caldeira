@@ -1,8 +1,7 @@
-package com.github.sdksantana;
-
+package com.github.aula01;
 import java.util.Scanner;
 import java.text.Normalizer;
-public class exercicio11 {
+public class Exercicio11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite uma frase aleatória: ");

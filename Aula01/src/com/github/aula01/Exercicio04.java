@@ -1,9 +1,9 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.text.DecimalFormat;
-public class exercicio04 {
+public class Exercicio04 {
     public static void main(String[] args) {
         final double salarioMinimo;
         double salarioUsuario;

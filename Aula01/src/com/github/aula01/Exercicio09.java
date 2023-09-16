@@ -1,8 +1,8 @@
-package com.github.sdksantana;
+package com.github.aula01;
 
 import java.time.Year;
 import java.util.Scanner;
-public class exercicio09 {
+public class Exercicio09 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int anoAtual = Year.now().getValue(); //Coleta o valor do ano atual, gerando um algoritmo atualizado automaticamente
