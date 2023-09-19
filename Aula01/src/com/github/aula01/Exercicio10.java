@@ -1,7 +1,6 @@
 package com.github.aula01;
 import java.util.Scanner;
 import java.text.DecimalFormat;
-
 public class Exercicio10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
