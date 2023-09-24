@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cd0a470-1475-45a1-b6b8-a2472b51dfa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Aula03/src/exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/aula01/exercicio13.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2VOhzKmp2BpNa8MQmGbuRpmHVSt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/aluno/Desktop/sdksantana/Aula01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd0a470-1475-45a1-b6b8-a2472b51dfa0" name="Changes" comment="" />
+      <created>1694713294690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694713294690</updated>
+    </task>
+    <servers />
+  </component>
+</project>
