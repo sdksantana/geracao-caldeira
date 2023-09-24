@@ -1,5 +1,4 @@
 package com.github.aula05.Exercicio06;
-import com.github.aula05.Exercicio05.Impressao;
 
 import java.util.Scanner;
 import java.util.LinkedList;
