@@ -16,7 +16,7 @@ public class Main {
         gerenciador.adicionar(contaNova);
         gerenciador.adicionar(contaDois);
 
-        System.out.println("O total de tributos é: " + gerenciador.getTotalTributos());
+        System.out.println("Total de tributos: " + gerenciador.getTotalTributos());
     }
 
     }
