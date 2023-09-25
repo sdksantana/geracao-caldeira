@@ -1,5 +1,4 @@
 package com.github.aula01;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.text.DecimalFormat;
