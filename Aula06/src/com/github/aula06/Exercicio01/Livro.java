@@ -1,5 +1,4 @@
 package com.github.aula06.Exercicio01;
-
 public class Livro {
     public String getTitulo() {
         return titulo;
@@ -19,4 +18,9 @@ public class Livro {
 
     private String titulo;
     private String categoria;
-}
+
+    @Override
+    public String toString() {
+        return "Título - '" + titulo + "'";
+    }
+    }
