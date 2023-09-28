@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio01;
+package com.github.aula05.exercicio01;
 import java.util.Scanner;
 public class ArraySomaEMedia {
     public static void main(String[] args) {

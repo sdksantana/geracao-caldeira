@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio05;
+package com.github.aula05.exercicio05;
 
 public class Impressao {
     private String nome;

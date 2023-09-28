@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio04;
+package com.github.aula05.exercicio04;
 public class Compra {
     private String nome;
     private String dataValidade;

@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio06;
+package com.github.aula05.exercicio06;
 
 import java.util.Scanner;
 import java.util.LinkedList;

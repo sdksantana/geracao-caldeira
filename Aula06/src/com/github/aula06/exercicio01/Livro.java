@@ -1,4 +1,4 @@
-package com.github.aula06.Exercicio01;
+package com.github.aula06.exercicio01;
 public class Livro {
     public String getTitulo() {
         return titulo;

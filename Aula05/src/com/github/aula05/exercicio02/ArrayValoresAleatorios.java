@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio02;
+package com.github.aula05.exercicio02;
 import java.util.Scanner;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio05;
+package com.github.aula05.exercicio05;
 import java.util.Scanner;
 import java.util.LinkedList;
 public class Principal {

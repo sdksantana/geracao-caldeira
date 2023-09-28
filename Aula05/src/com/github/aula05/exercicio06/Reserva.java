@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio06;
+package com.github.aula05.exercicio06;
 public class Reserva {
     private String nome;
     private String local;

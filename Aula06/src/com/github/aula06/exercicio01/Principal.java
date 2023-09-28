@@ -1,4 +1,4 @@
-package com.github.aula06.Exercicio01;
+package com.github.aula06.exercicio01;
 import java.util.Stack;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;

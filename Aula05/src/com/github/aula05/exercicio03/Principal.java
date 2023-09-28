@@ -1,4 +1,4 @@
-package com.github.aula05.Exercicio03;
+package com.github.aula05.exercicio03;
 import java.util.Scanner;
 import java.util.ArrayList;
 
