@@ -10,6 +10,7 @@ public class Principal {
         nomesEIdades.put("Enzo", 7);
         nomesEIdades.put("Valentina", 8);
         nomesEIdades.put("Gloria", 84);
+        nomesEIdades.put("", 13);
 
         //System.out.println(nomesEIdades.get("Enzo"));//A idade do atributo "Enzo"
 
@@ -19,7 +20,11 @@ public class Principal {
             int idade = terceiraIdade.getValue();
             if (terceiraIdade.getValue() >= 60)
                 System.out.println("Terceira idade: " + nome + ", " + idade + " anos");
+            /*if (nome.length() == 0) { //Certifica se o nome está presente no mapa.
+                System.out.println("Nulo.");
+            }*/
 
         }
+
     }
 }
