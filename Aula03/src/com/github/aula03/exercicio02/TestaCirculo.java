@@ -1,4 +1,4 @@
-package com.github.aula03.Exercicio02;
+package com.github.aula03.exercicio02;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class TestaCirculo {

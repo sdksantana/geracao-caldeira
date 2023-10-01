@@ -1,4 +1,4 @@
-package com.github.aula04.Exercicio03;
+package com.github.aula04.exercicio03;
 public class Main {
     public static void main(String[] args)
     {

@@ -1,5 +1,4 @@
 package com.github.aula06.exercicio03;
-
 import java.util.Scanner;
 import java.util.TreeMap;
 
@@ -15,9 +14,9 @@ public class Main {
         System.out.println("Digite a Zona desejada:");
         check = scanner.nextLine();
 
-        for (Contato item : agenda.keySet())
+        for (Contato item : agenda.keySet())//Ordena em ordem alfabetica
         {
-            if (item.getZona().equals(check))
+            if (item.getZona().equals(check))//Verifica se tem uma zona dentro do item
                 System.out.println(item.getNome() + " | Zona " + item.getZona());
         }
 

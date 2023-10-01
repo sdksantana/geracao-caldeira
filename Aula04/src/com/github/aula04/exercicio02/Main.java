@@ -1,4 +1,4 @@
-package com.github.aula04.Exercicio02;
+package com.github.aula04.exercicio02;
 import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {

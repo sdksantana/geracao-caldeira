@@ -1,7 +1,6 @@
-package com.github.aula03.Exercicio01;
+package com.github.aula03.exercicio01;
 import java.time.LocalTime;
 import java.util.Scanner;
-import java.util.concurrent.CopyOnWriteArrayList;
 
 public class ContaPrincipal {
     public static void main(String[] args) {

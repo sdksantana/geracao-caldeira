@@ -1,4 +1,4 @@
-package com.github.aula04.Exercicio02;
+package com.github.aula04.exercicio02;
 
 public class Quadrado extends FormaGeometrica {
     double lado;

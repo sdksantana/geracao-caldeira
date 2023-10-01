@@ -1,4 +1,4 @@
-package com.github.aula03.Exercicio02;
+package com.github.aula03.exercicio02;
 public class Circulo {
     private Double raio;
     private int x;

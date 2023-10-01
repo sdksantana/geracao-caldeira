@@ -1,4 +1,4 @@
-package com.github.aula03.Exercicio01;
+package com.github.aula03.exercicio01;
 import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;

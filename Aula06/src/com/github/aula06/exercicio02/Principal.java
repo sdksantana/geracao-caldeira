@@ -19,7 +19,7 @@ public class Principal {
             String nome = terceiraIdade.getKey();
             int idade = terceiraIdade.getValue();
             if (terceiraIdade.getValue() >= 60)
-                System.out.println("Terceira idade: " + nome + ", " + idade + " anos");
+                System.out.println("Terceira idade: " + nome + ", " +  idade + " anos");
             /*if (nome.length() == 0) { //Certifica se o nome está presente no mapa.
                 System.out.println("Nulo.");
             }*/

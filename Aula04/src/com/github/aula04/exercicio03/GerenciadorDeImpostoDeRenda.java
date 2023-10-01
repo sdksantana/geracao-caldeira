@@ -1,10 +1,10 @@
-package com.github.aula04.Exercicio03;
+package com.github.aula04.exercicio03;
 
 public class GerenciadorDeImpostoDeRenda {
 
     public double totalTributos;
 
-    public void adicionar(Tributavel t) {
+    public void adicionar(tributavel t) {
         this.totalTributos += t.calculaTributos();
     }
 
