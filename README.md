@@ -47,8 +47,11 @@
 ```• Classes de Objetos```   
 
 ## [👨‍💻 Aula 06](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula06)
-```• Stack``` 
-```• Construtores```     
-```• Getters e Setters```    
-```• Classes de Objetos```
+```• Stack```   
+```• Map```    
+```• TreeMap```     
+``` • LinkedHashMap```   
+```• Construtores```       
+```• Getters e Setters```      
+```• Classes de Objetos``` 
 
