@@ -5,61 +5,61 @@
 
  
 ## [👨‍💻 Aula 01](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula01)
-```• Switch Case```    
-```• Blibioteca Scanner```       
-```• Blibioteca Decimal Format```   
-```• Blibioteca Normalizer```     
-```• Blibioteca Time Year```   
-```• Try-Catch ```    
-```• Do-While para checkagem```  
- ```• TimeUnit```     
+- `Switch Case`   
+- `Blibioteca Scanner` 
+- `Blibioteca Decimal Format`
+- `Blibioteca Normalizer`    
+- `Blibioteca Time Year`   
+- ```Try-Catch ```    
+- ```Do-While para checkagem```  
+-  ```TimeUnit```     
 
 ## [👨‍💻 Aula 02](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula02)
-```• InterruptedException```   
-```• String Builder```   
-```• String Substring```   
-```• String Length```   
-```• Builder Reverse```
+- ```InterruptedException```   
+- ```String Builder```   
+- ```String Substring```   
+- ```String Length```   
+- ```Builder Reverse```
 
 ## [👨‍💻 Aula 03](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula03)
-```• Array List```  
-```• List```  
-```• Construtores```  
-```• Getters e Setters```  
-```• Métodos```
+- ```Array List```  
+- ```List```  
+- ```Construtores```  
+- ```Getters e Setters```  
+- ```Métodos```
 
 ## [👨‍💻 Aula 04](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula04)
-```• Classes Abstratas```  
-```• Extends```   
-```• Interfaces```   
-```• Métodos```   
-```• Construtores```    
-```• Getters e Setters```  
-```• Classes de Objetos```  
+- ```Classes Abstratas```  
+- ```Extends```   
+- ```Interfaces```   
+- ```Métodos```   
+- ```Construtores```    
+- ```Getters e Setters```  
+- ```Classes de Objetos```  
 
 ## [👨‍💻 Aula 05](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula05)
-```• Random Number```   
-```• Arrays```   
-```• Estruturas de Repetição```  
-```• Métodos```    
-```• Construtores```     
-```• Getters e Setters```   
-```• Classes de Objetos```   
+- ```Random Number```   
+- ```Arrays```   
+- ```Estruturas de Repetição```  
+- ```Métodos```    
+- ```Construtores```     
+- ```Getters e Setters```   
+- ```Classes de Objetos```   
 
 ## [👨‍💻 Aula 06](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula06)
-```• Stack```   
-```• Map```    
-```• TreeMap```     
-```• LinkedHashMap```   
-```• Construtores```       
-```• Getters e Setters```      
-```• Classes de Objetos``` 
+- ```Stack```   
+- ```Map```    
+- ```TreeMap```     
+- ```LinkedHashMap```   
+- ```Construtores```       
+- ```Getters e Setters```      
+- ```Classes de Objetos``` 
 
 ## [👨‍💻 Aula 07](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula07)
-```• Try Catch```   
-```• Switch Case```    
-```• Enum```     
-```• Interface```         
-```• Exception```      
-```• Classes de Objetos```  
-```• Do-While```
+- ```Try Catch```   
+- ```Switch Case```    
+- ```Enum```     
+- ```Interface```         
+- ```Exception```      
+- ```Classes de Objetos```  
+- ```Do-While```
