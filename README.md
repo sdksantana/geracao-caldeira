@@ -50,8 +50,16 @@
 ```• Stack```   
 ```• Map```    
 ```• TreeMap```     
-``` • LinkedHashMap```   
+```• LinkedHashMap```   
 ```• Construtores```       
 ```• Getters e Setters```      
 ```• Classes de Objetos``` 
 
+## [👨‍💻 Aula 07](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula07)
+```• Try Catch```   
+```• Switch Case```    
+```• Enum```     
+```• Interface```         
+```• Exception```      
+```• Classes de Objetos```  
+```• Do-While```
