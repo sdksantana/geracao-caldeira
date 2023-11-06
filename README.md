@@ -63,3 +63,4 @@
 - ```Exception```      
 - ```Classes de Objetos```  
 - ```Do-While```
+- ```Tratamento de Erros```
