@@ -64,3 +64,14 @@
 - ```Classes de Objetos```  
 - ```Do-While```
 - ```Tratamento de Erros```
+
+## [👨‍💻 Aula 08](https://github.com/sdksantana/geracao-caldeira-java/tree/main/Aula08)
+- ```Maven```   
+- ```Grandle```    
+- ```Stream```     
+- ```ArrayList```         
+- ```Filter```      
+- ```Map```  
+- ```Collect```
+- ```Comparator```
+- ```Max```
